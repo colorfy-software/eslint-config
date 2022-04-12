@@ -13,7 +13,7 @@
     <img src="https://github.com/colorfy-software/eslint-config/workflows/Test%20Suite/badge.svg?branch=main" alt="Current GitHub Actions build status." />
   </a> -->
   <a href="https://www.npmjs.org/package/@colorfy-software/eslint-config">
-    <img src="https://badge.fury.io/js/@colorfy-software/eslint-config.svg" alt="Current npm package version." />
+    <img src="https://badge.fury.io/js/%40colorfy-software%2Feslint-config.svg" alt="Current npm package version." />
   </a>
   <a href="https://www.npmjs.org/package/@colorfy-software/eslint-config">
     <img src="https://img.shields.io/npm/dm/@colorfy-software/eslint-config.svg?maxAge=2592000" alt="Monthly npm downloads." />
