@@ -142,6 +142,7 @@ module.exports = {
     "react-native/no-raw-text": OFF,
     "no-use-before-define": OFF,
     "@typescript-eslint/no-use-before-define": OFF,
+    "@typescript-eslint/no-non-null-assertion": OFF,
     "@typescript-eslint/ban-ts-ignore": OFF,
     "@typescript-eslint/no-unused-vars": [ERROR, NO_UNUSED_VARS_OPTIONS],
     "no-extend-native": OFF,

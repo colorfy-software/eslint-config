@@ -17,6 +17,7 @@
     "url": "git+https://github.com/colorfy-software/eslint-config.git"
   },
   "keywords": [
+    "typescript",
     "javascript",
     "eslint",
     "eslintconfig"
