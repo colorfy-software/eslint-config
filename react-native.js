@@ -155,5 +155,6 @@ module.exports = {
     "react/react-in-jsx-scope": OFF,
     "arrow-parens": [ERROR, "as-needed"],
     "no-unused-vars": [ERROR, NO_UNUSED_VARS_OPTIONS],
+    "react/no-unstable-nested-components": [ERROR, { allowAsProps: true }],
   },
 };
