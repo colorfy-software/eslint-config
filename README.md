@@ -49,10 +49,10 @@ You can choose one of the following environments to work with by extending your 
 }
 ```
 
-## 🤝 Code of Conduct
+## 💖 Code of Conduct
 
 This library has adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text](https://github.com/colorfy-software/eslint-config/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 ## 📰 License
 
-React Native Modalfy is licensed under the [MIT License](https://github.com/colorfy-software/eslint-config/blob/master/LICENSE).
+ESLint Config is licensed under the [MIT License](https://github.com/colorfy-software/eslint-config/blob/master/LICENSE).
