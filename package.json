@@ -1,6 +1,6 @@
 {
   "name": "@colorfy-software/eslint-config",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "ESLint config used at Colorfy GmbH",
   "main": "react-native.js",
   "files": [
